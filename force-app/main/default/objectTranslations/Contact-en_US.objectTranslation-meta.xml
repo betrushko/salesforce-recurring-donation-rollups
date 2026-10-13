@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label>Total Recurring Donations</label>
+        <name>Total_Recurring_Donations__c</name>
+    </fields>
+    <fields>
+        <label>Open Recurring Donations</label>
+        <name>Open_Recurring_Donations__c</name>
+    </fields>
+    <fields>
+        <label>Closed Recurring Donations</label>
+        <name>Closed_Recurring_Donations__c</name>
+    </fields>
+    <fields>
+        <label>Paused Recurring Donations</label>
+        <name>Paused_Recurring_Donations__c</name>
+    </fields>
+    <fields>
+        <label>Active Closed Recurring Donations</label>
+        <name>Closed_Active_Recurring_Donations__c</name>
+    </fields>
+    <fields>
+        <label>Passive Closed Recurring Donations</label>
+        <name>Closed_Passive_Recurring_Donations__c</name>
+    </fields>
+    <fields>
+        <label>Reactivation Closed Recurring Donations</label>
+        <name>Closed_Reactivation_RDs__c</name>
+    </fields>
+</CustomObjectTranslation>

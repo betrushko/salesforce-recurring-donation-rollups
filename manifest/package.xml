@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <members>RecurringDonationContactRollupBatch</members>
+    <members>RecurringDonationContactRollupHandler</members>
+    <members>RecurringDonationContactRollupMerge</members>
+    <members>RecurringDonationContactRollupMergeJob</members>
+    <members>RecurringDonationContactRollupTest</members>
+    <name>ApexClass</name>
+  </types>
+  <types>
+    <members>Contact.Closed_Active_Recurring_Donations__c</members>
+    <members>Contact.Closed_Passive_Recurring_Donations__c</members>
+    <members>Contact.Closed_Reactivation_RDs__c</members>
+    <members>Contact.Closed_Recurring_Donations__c</members>
+    <members>Contact.Open_Recurring_Donations__c</members>
+    <members>Contact.Paused_Recurring_Donations__c</members>
+    <members>Contact.Total_Recurring_Donations__c</members>
+    <name>CustomField</name>
+  </types>
+  <types>
+    <members>Contact-en_US</members>
+    <name>CustomObjectTranslation</name>
+  </types>
+  <types>
+    <members>Recurring_Donation_Contact_Rollup_Access</members>
+    <name>PermissionSet</name>
+  </types>
+  <version>61.0</version>
+</Package>
